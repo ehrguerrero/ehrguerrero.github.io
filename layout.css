@@ -1,0 +1,20 @@
+body{
+  font-family: 'Trebuchet MS', sans-serif;
+  padding-bottom: 45%;
+}
+
+#header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: left;
+  padding-left: 25%;
+}
+
+.content {
+  float: left;
+  padding-left: 25%;
+}
+
+.content.middle {
+  width: 50%;
+}
